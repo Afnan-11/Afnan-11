@@ -3,8 +3,8 @@
 <li>👀 I specialize in MERN Stack Development, focusing on React.js, Next.js, and API integration to build dynamic web applications.</li>
 <li>🌱 I’m the founder of AJAX Souls, where we deliver top-notch web solutions and API integration. 🚀</li>
 <li>💞 I’m looking to collaborate on short-term projects in web development, custom solutions, and UI enhancements.</li>
-<li>📫 Let’s connect on <a href="https://www.linkedin.com/in/muhammad-afnan">LinkedIn</a> to explore new opportunities!</li>
-<li>📝 Check out my articles and posts for insights on React.js, web development, and the latest tech trends on <a href="https://www.linkedin.com/in/muhammad-afnan">LinkedIn</a>.</li>
+<li>📫 Let’s connect on <a href="https://www.linkedin.com/in/muhammad-afnan-944989212/">LinkedIn</a> to explore new opportunities!</li>
+<li>📝 Check out my articles and posts for insights on React.js, web development, and the latest tech trends on <a href="https://www.linkedin.com/in/muhammad-afnan-944989212/">LinkedIn</a>.</li>
 </ul>
 
 # <h2>About Me</h2>
